@@ -1,0 +1,4 @@
+# ninja log v5
+0	11360	1640876496805108745	/home/yyw/yyf/projects/ReDet/mmdet/models/losses/piou/build/temp.linux-x86_64-3.7/pixel_weights_binding.o	26dd96a6272104ed
+0	11436	1640876508833085710	/home/yyw/yyf/projects/ReDet/mmdet/models/losses/piou/build/temp.linux-x86_64-3.7/pixel_weights_cuda.o	8ce1fb90d2bed839
+0	40067	1640876537465031105	/home/yyw/yyf/projects/ReDet/mmdet/models/losses/piou/build/temp.linux-x86_64-3.7/pixel_weights_kernel.o	8e2f3bd490b93a57
